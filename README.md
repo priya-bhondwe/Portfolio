@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="" target="_blank">priya.tech</a>
+  <a href="https://priyab-portfolio.vercel.app/" target="_blank">priya.tech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/Laptop-Mobile.png" />
@@ -18,7 +18,7 @@
 
 ## Built With
 
-My personal portfolio <a href="" target="_blank">priya.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://priyab-portfolio.vercel.app/" target="_blank">priya.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
