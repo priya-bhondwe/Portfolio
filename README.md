@@ -18,7 +18,7 @@
 
 ## Built With
 
-My personal portfolio <a href="" target="_blank">priya.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My Personal Portfolio <a href="" target="_blank">priya.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
