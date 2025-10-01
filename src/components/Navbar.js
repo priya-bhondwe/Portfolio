@@ -38,7 +38,10 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-          <h3 className="orange">PB<AiOutlineLaptop/> </h3>
+          <h3 className="orange">
+            PB
+            <AiOutlineLaptop style={{ top: "0", color: "#fff" }} />{" "}
+          </h3>
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
