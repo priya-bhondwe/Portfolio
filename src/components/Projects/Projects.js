@@ -31,7 +31,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={Luxe}
+              // imgPath={Luxe}
               title="Luxe Gleam"
               description="Luxe Gleam is a web application for managing and showcasing jewelry collections, built with modern web technologies. It provides both a customer-facing storefront and an admin panel for managing product listings, categories, inventories, and orders."
             />
@@ -39,7 +39,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={tourist}
+              // imgPath={tourist}
               title="Tourist Website"
               description="Tourist Guide is a web (or mobile-responsive) frontend application aimed at helping travelers explore destinations, plan itineraries, and discover points of interest. It acts as the user-facing interface for a larger tourism platform."
             />
