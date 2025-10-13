@@ -44,6 +44,14 @@ function Projects() {
               description="Tourist Guide is a web (or mobile-responsive) frontend application aimed at helping travelers explore destinations, plan itineraries, and discover points of interest. It acts as the user-facing interface for a larger tourism platform."
             />
           </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={figma}
+              title="Responsive E-Commerce Website UI/UX Design (Figma Prototype)"
+              description="Designed a modern, responsive e-commerce interface using Figma, focusing on intuitive navigation, clean layout, and engaging product presentation.The prototype includes key user flows such as homepage browsing, product details, cart, and checkout. Emphasized usability, consistency in design elements, and mobile-friendly layouts to enhance user experience."
+              demoLink="https://www.figma.com/proto/wdOoSL72wVKe8LfWPzpMRd/Untitled?node-id=177-123&t=qPIGgDJs5UgAWUeS-1&starting-point-node-id=165%3A10"
+            />
+          </Col>
         </Row>
       </Container>
     </Container>
