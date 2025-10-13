@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import hotel from "../../Assets/Projects/hotel.png";
 import Luxe from "../../Assets/Projects/Luxe Gleam.png";
 import tourist from "../../Assets/Projects/tourist.png";
+import figma from "../../Assets/Projects/figma-e-commerce.png";
 
 function Projects() {
   return (
