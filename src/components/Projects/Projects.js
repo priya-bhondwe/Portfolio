@@ -6,6 +6,7 @@ import hotel from "../../Assets/Projects/hotel.png";
 import Luxe from "../../Assets/Projects/Luxe Gleam.png";
 import tourist from "../../Assets/Projects/tourist.png";
 import figma from "../../Assets/Projects/figma-e-commerce.png";
+import foodPortal from "../../Assets/Projects/Supplier Food Safety Query portal.png";
 
 function Projects() {
   return (
@@ -30,6 +31,16 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
+              isBlog={false}
+              imgPath={foodPortal}
+              title="Supplier Food Safety Query Portal — UX/UI Design"
+              description="The Supplier Food Safety Query Portal is a web-based platform designed to streamline communication and compliance between suppliers and quality teams within the food industry. This portal enables suppliers to submit food safety queries, upload documentation, track query status, and receive updates in a clear, intuitive interface — improving transparency and reducing compliance delays. The design process involved understanding supplier workflows, defining pain points in food safety documentation, and creating an interactive Figma that balances usability and regulatory requirements."
+              demoLink="https://www.figma.com/design/ikgcVoww23AyKz4VnsBVxb/Supplier-Food-Safety-Query-Portal?node-id=1-5&p=f"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              isBlog={false}
               imgPath={figma}
               title="Responsive E-Commerce Website UI/UX Design (Figma Prototype)"
               description="Designed a modern, responsive e-commerce interface using Figma, focusing on intuitive navigation, clean layout, and engaging product presentation.The prototype includes key user flows such as homepage browsing, product details, cart, and checkout. Emphasized usability, consistency in design elements, and mobile-friendly layouts to enhance user experience."
