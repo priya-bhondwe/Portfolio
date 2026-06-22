@@ -8,13 +8,14 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="orange">Priya Bhondwe </span>
-            from <span className="orange"> Pune, India.</span>
+            Hi Everyone, I am <span className="orange">Priya Bhondwe</span>
+            from <span className="orange">Pune, India.</span>
             <br />
-            I am currently employed as a Frontend developer at Cognizant.
-            <br />
-            I have completed Bachelor Of Engineering (BE) in Information
-            Technology at BVCOEW.
+            I have recently completed my Bachelor of Engineering (BE) in
+            Information Technology at BVCOEW.
+            <br />I am passionate about{" "}
+            <span className="orange">Frontend Development</span>
+            and enjoy building interactive and user-friendly web applications.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -24,15 +25,16 @@ function AboutCard() {
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs And Fiction Story
+              <ImPointRight /> Writing Tech Blogs and Fiction Stories
             </li>
             <li className="about-activity">
-              <ImPointRight /> Reading Story
+              <ImPointRight /> Reading Novels and Stories
             </li>
           </ul>
 
           <p style={{ color: "rgb(255, 213, 128)" }}>
-            "Focus on creating solutions that leave a lasting impact!"{" "}
+            "Eager to learn, build, and grow as a developer while making a
+            positive impact!"
           </p>
           <footer className="blockquote-footer">Priya</footer>
         </blockquote>
